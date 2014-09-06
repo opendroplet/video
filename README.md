@@ -10,4 +10,4 @@ from The Noun Project
 Soundtrack "Kamikaze" by J-K 
 (http://monsterjinx.com/artista/j-k/)
 
-CC-BY 4.0 License - Copyright 2014 - iilab / Resurgence 
+2014 CC-BY 4.0 iilab.org, Resurgence, cameralibre.cc, etemu.com
